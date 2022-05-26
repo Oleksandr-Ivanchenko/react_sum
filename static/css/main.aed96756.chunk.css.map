@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,KACE,WAAY,CACZ,WAAY,CACZ,cAAe,CACf,iBAAkB,CAClB,mBAAoB,CACpB,wBAA4B","file":"main.aed96756.chunk.css","sourcesContent":["// styles go here\n.sum {\n  width: 180px;\n  height: 25px;\n  font-size: 20px;\n  text-align: center;\n  font-family: fantasy;\n  background-color: aquamarine;\n}\n"]}
